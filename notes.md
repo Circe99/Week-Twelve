@@ -1,5 +1,7 @@
 I decided that I wanted to keep working on the game I made last week to see how realistic I could make it. By that I mean, can I place things the way they are in real life? Can I add aspects from my experience, like the bugs crawling around? Can I do that with other peoples sites too?
 
+The goal will be to have as many of the locations as possible from out recorded data (I know super ambitious, but it's ok if I only get a few done too. The idea will be to have the overall experience of our world in a virtual setting)
+
 So I present to you my process for The Graveyard Project 2.0!
 
 ## Day 1
