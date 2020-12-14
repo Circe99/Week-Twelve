@@ -24,4 +24,8 @@ In comparison to my map it looks much more realistic, but I had no large monumen
 
 I would also like to expand the page for cocochantal's tombs because she has about 10 more points that can be added, but I have yet t ofind a way to make that a reality. I have asked the discord page if anyone was able to do this so we shall see. 
 
-Another thing I would like to note is the labelling system. It is not so helpful that I labelled everything based on what it was and which location I wanted it to be in so that I wouldn't get confused and have to read each dialog to ensure that it is in the right place. However, even with all of my labels, I find that it is starting to get harder to make sure I have everthing in the right spot, or that I haven't accidently misplaced one of the sprites
+Another thing I would like to note is the labelling system. It is not so helpful that I labelled everything based on what it was and which location I wanted it to be in so that I wouldn't get confused and have to read each dialog to ensure that it is in the right place. However, even with all of my labels, I find that it is starting to get harder to make sure I have everthing in the right spot, or that I haven't accidently misplaced one of the sprites.
+
+## Day 3
+
+
