@@ -28,4 +28,6 @@ Another thing I would like to note is the labelling system. It is not so helpful
 
 ## Day 3
 
+I spent most of this day picking a third location (with many many many failed attempts). My main issue was the coordinated were all the same for one location (but for several tombs) so I was unablee to plot them on google and copy the map to my game. And then when I did find a location with multiple coordinates, the inscrptions didn't have the information I needed for my little tombs. So I was limited to what I had set up the game to be, and I was limited to what my collegues were able to input into the KoboTools application we were using. 
 
+But was able to make one more addition to the map before sumbitting it. So here it is! I hope you enjoy the [experience](https://circe99.github.io/Week-Twelve/the_graveyard_project_4.html)
